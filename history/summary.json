@@ -2,7 +2,7 @@
   {
     "name": "nike",
     "url": "https://www.nike.com/kr/ko_kr/w/xg/xb/xc/new-releases",
-    "icon": "https://favicons.githubusercontent.com/www.nike.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.nike.com.ico",
     "slug": "nike",
     "status": "up",
     "uptime": "99.93%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1646,
-    "timeDay": 1473,
-    "timeWeek": 1447,
-    "timeMonth": 1671,
+    "timeDay": 1643,
+    "timeWeek": 1510,
+    "timeMonth": 1673,
     "timeYear": 1646,
     "dailyMinutesDown": {
       "2022-08-23": 157,
